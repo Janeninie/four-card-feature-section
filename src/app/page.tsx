@@ -2,7 +2,7 @@ import Card from "@/components/Card";
 
 export default function Home() {
   return (
-    <main className="max-sm:min-h-screen bg-secondary-veryLightGray flex items-center max-sm:py-12 px-6">
+    <main className="max-sm:min-h-screen bg-secondary-veryLightGray flex items-center py-6 max-sm:py-12 px-6">
       <section className="max-w-screen-xl mx-auto w-full flex flex-col gap-10">
         <section className="w-full flex flex-col items-center justify-center gap-4">
           <div className="flex flex-col gap-1">
